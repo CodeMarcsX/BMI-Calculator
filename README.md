@@ -1,6 +1,3 @@
-Perfeito! Aqui está o seu texto **formatado em Markdown**, mantendo emojis, títulos e seções bem organizadas para GitHub:
-
-````markdown
 # 📊 Body Mass Index (BMI) Calculator
 
 This is a small console application written in C that calculates the user's Body Mass Index (BMI) and determines their ideal weight range, offering a friendly, colored interface.
