@@ -56,6 +56,11 @@ After compilation, run the generated executable:
 ```bash
 .\main.exe
 ```
+⚠️ Important: If the banner or special characters appear "bugged" in the terminal, first set the code page to UTF-8:
+```bash
+chcp 65001
+```
+
 
 ---
 
