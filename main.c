@@ -35,6 +35,9 @@ void printBanner();
  */
 int main(void)
 {
+    // This causes the text to be printed immediately on the terminal
+    setbuf(stdout, NULL);
+    
     clearScreen();
     printBanner();
 
