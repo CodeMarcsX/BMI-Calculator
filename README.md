@@ -7,7 +7,7 @@ This is a small console application written in C that calculates the user's Body
 ## ✨ Features
 
 - **BMI Calculation:** Calculates BMI based on weight (kg) and height (m).  
-- **Weight Classification:** Displays the weight classification (Underweight, Normal Weight, Obesity, etc.) according to the thresholds defined in the code (based on WHO standards).  
+- **Weight Classification:** Displays the weight classification (Underweight, Normal Weight, Obesity, etc.) according to the table (based on SUS standards).  
 - **Ideal Weight Range:** Calculates and displays the ideal weight range in kilograms for the entered height.  
 - **Interactive Interface:** Uses colors and an ASCII banner for a better visual experience in the terminal.  
 - **Compatibility:** Works across different operating systems like Windows, Linux, and macOS (adaptive screen clearing).  
